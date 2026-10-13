@@ -1,0 +1,23 @@
+Criar ambiente:
+   py -m venv venv
+
+Ativar o anbiente:
+   venv\Scripts\activate
+
+Instalar pacote:
+   pip install PACOTE
+
+Remover pacote:
+   pip uninstall PACOTE
+
+Atualiza pacote:
+   pip install -U PACOTE
+
+Verificar pacotes instalados:
+   pip list
+
+Criar o arquivo requirements.txt (semelhando o package json do node)
+   pip freeze > requirements.txt
+
+Instalar os pacotes presentes no arquivo requirements.txt
+   pip install -r requirements.txt

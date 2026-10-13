@@ -1,0 +1,10 @@
+(04) Estrutura de Dados - Base do Python
+
+Aula 01 - Listas: criação e indexação
+Aula 02 - Listas: métodos essenciais
+Aula 03 - Tuplas e sets
+Aula 04 - Dicionários
+Aula 05 - Escolhendo a estrutura certa
+Aula 06 - Exercício: Informações de pedidos
+Aula 07 - Resolução: Informações de pedidos
+Aula 08 - Coleções

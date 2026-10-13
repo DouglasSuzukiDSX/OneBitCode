@@ -1,0 +1,9 @@
+(05) Controle de Fluxo - Base do Python
+
+Aula 01 - Operadores lógicos - and, or, not
+Aula 02 - Condições com if, elif e else
+Aula 03 - Condições com match
+Aula 04 - Laço for e while
+Aula 05 - List comprehension
+Aula 06 - Exercício: lançamento de foguete | tabuada | filtro de dados
+Aula 07 - Resolução: lançamento de foguete | tabuada | filtro de dados

@@ -1,0 +1,17 @@
+(07) Organizacoes e Classes - Base do Python
+
+Aula01 - Módulos e pacotes
+Aula02 - Módulos built-in (parte 1)
+Aula03 - Módulos built-in (parte 2)
+Aula04 - Módulos built-in (parte 3)
+Aula05 - Ambiente profissional: virtual env
+Aula06 - Pip e módulos externos
+Aula07 - Exercício: módulos
+Aula08 - Resolução: módulos
+Aula09 - Introdução a classes e objetos
+Aula10 - Classes: classmethod e staticmethod
+Aula11 - Herança e polimorfismo
+Aula12 - Encapsulamento e propriedades
+Aula13 - Exercício: classe filmes | biblioteca | sistema de tarefas
+Aula14 - Resolução: classe filmes | biblioteca | sistema de tarefas
+Aula15 - Classes e organização

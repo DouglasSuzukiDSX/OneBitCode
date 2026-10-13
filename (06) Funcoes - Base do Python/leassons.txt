@@ -1,0 +1,8 @@
+(06) Funcoes - Base do Python
+
+Aula01 - Funções: criando e reutilizando código
+Aula02 - Argumentos avançados: *args e kwargs
+Aula03 - Funções recursivas
+Aula04 - Funções lambda e funções de ordem superior
+Aula05 - Exercício: conta letras | verifica par e ímpar | transforma lista
+Aula06 - Resolução: conta letras | verifica par e ímpar | transforma lista

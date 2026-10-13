@@ -1,0 +1,11 @@
+{
+   "id": 101,
+   "name": "John Doe",
+   "is_active": true,
+   "skills": ["Reading", "Coding", "Hiking"],
+   "address": {
+      "city": "New York",
+      "zipcode": "10001"
+   },
+   "phone": null
+}

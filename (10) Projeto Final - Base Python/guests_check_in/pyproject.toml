@@ -1,0 +1,5 @@
+[tool.poe.tasks]
+
+test = "python -m pytest"
+
+initialize = 'python -m venv venv'

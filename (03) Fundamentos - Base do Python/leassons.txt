@@ -1,0 +1,10 @@
+(03) Fundamentos - Base do Python
+
+Aula 01 - Variáveis e tipos de dados
+Aula 02 - Lendo dados com input e concatenando valores
+Aula 03 - Operadores aritméticos e relacionais
+Aula 04 - Strings em profundidade
+Aula 05 - Principais métodos de strings
+Aula 06 - Exercício: antecessor e sucessor | média de notas | manipulação de string
+Aula 07 - Resolução: antecessor e sucessor | média de notas | manipulação de string
+Quiz - Fundamentos Python

@@ -1,0 +1,7 @@
+(09) Arquivos e API - Base do Python
+
+Aula01 - Lendo e escrevendo arquivos
+Aula02 - Requisições HTTP e APIs
+Aula03 - Exercício: processador de arquivos | consultor de API
+Aula04 - Resolução: processador de arquivos | consultor de API
+Quiz: Arquivos e APIs

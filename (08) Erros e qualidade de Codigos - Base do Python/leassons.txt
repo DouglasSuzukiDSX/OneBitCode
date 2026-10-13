@@ -1,0 +1,7 @@
+(08) Erros e qualidade de Codigos - Base do Python
+
+Aula01 - Try/except - tratamento de erros
+Aula02 - Levantando exceções com raise
+Aula03 - Testes unitários com pytest
+Aula04 - Exercício: validador de dados | testes
+Aula05 - Resolução: validador de dados | testes
