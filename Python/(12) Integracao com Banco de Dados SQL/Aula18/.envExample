@@ -1,0 +1,5 @@
+DB_NAME=sqlalchemy
+DB_USER=postgres
+DB_PASSWORD=PASSWAORD
+DB_HOST=localhost
+DB_PORT=5432
