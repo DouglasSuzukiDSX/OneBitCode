@@ -1,0 +1,11 @@
+Aula16 - Fundamentos e conexão - SQLAlchemy
+Aula17 - Mapeamento Declarativo com Type Hints
+Aula18 - Gerenciamento de Sessões
+Aula19 - Lendo dados de uma tabela
+Aula20 - Relacionamentos e sincronização
+Aula21 - Manipulação de dados
+Aula22 - Exercício: Sistema de pedidos
+Aula23 - Resolução: Sistema de pedidos
+Aula24 - Assincronicidade no Python
+Aula25 - Utilizando o SQLAlchemy de forma assíncrona
+Aula26 - Tópicos avançados
